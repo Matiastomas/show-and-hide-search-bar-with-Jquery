@@ -2,7 +2,8 @@ $(document).ready(function(){
      
 	$("#show").click(function(){
 
-		$("#search").show("slow");
+        $("#search").show("slow");
+        $("#hide-paragraph").hide("slow");
         });
 
        $("#hide").click(function(){
