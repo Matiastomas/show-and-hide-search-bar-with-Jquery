@@ -2,7 +2,7 @@ $(document).ready(function(){
      
 	$("#show").click(function(){
 
-        $("#search").show("slow");
+        $("#search-bar").show("slow");
 
         $("#hide-paragraph").hide("slow");
 
@@ -10,7 +10,7 @@ $(document).ready(function(){
 
        $("#hide").click(function(){
 		
-		$("#search").hide("slow");
+		$("#search-bar").hide("slow");
 	});
 
 });
