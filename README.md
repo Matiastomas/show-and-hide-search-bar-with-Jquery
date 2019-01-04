@@ -1,5 +1,5 @@
 # show-and-hide-search-bar-with-Jquery
-#****
+
 
 ##**About this small project**
 
