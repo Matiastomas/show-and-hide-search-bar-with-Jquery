@@ -7,7 +7,7 @@ This is a code sample that show the implementation of hide() and show()  methods
 
 ## **Motivation**
 
-I  wrote this code in 2016 just for learnign purpose, at that time I was studing Jquery/hide() and show() methods and I decided to create
+I  wrote this code in 2016 just for learnign purpose, at that time I was studying Jquery/hide() and show() methods and I decided to create
 something to implement the things that I had learned, and a fun story is that at that time I stopped to study pure Javascript to study Jquery (...), tip: Learn the programing language first and after that you can try frameworks and libraries of that language will not be so exciting in the present but it will be worth in the future as proceed at your career as programmer/software developer, I decided to mantain it on github to share with the community.
 
 
